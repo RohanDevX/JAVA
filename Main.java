@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 //    final int a = 10;
-//        System.out.println("enter the numer:");
+        System.out.println("enter the numer:");
 //        Scanner input = new Scanner(System.in);
 //        int b = input.nextInt();
 //        int add = a + b;
