@@ -324,10 +324,7 @@ public class Main {
 //    System.out.println("ENTER THE NUMBER");
 //    Scanner input = new Scanner(System.in);
 //    n += input.nextInt();
-//    if (n>100){
-//        break;
-//    }
-//}
+//    if (n>100){ break;}
 //        System.out.println("done");
 
 
