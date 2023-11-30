@@ -240,7 +240,95 @@ public class Main {
 //            }
 //            System.out.println();
 //        }
+
         
+//        for (int i = 0; i <=15; i++) {
+//            if (i == 3 || i == 6 || i == 11 || i == 14 || i == 9){         //BREAK STATEMENT//
+//                continue;}
+//            System.out.print(i + " ");
+//        }
+//        System.out.println("ENTER A NUMEBR:");
+//        Scanner input = new Scanner(System.in);                               // ternary operator//
+//        int n = input.nextInt();
+//         int  j = (n == 10)?1:10;
+//            System.out.println(j);
+
+//        System.out.println("ENTER YOUR NUMBER BETWEEN 1 TO 7:");
+//        while (true) {
+//            Scanner in = new Scanner(System.in);
+//            int n = in.nextInt();
+//            switch (n) {
+//                case 1:
+//                    System.out.println("ONE");
+//                    break;
+//                case 2:
+//                    System.out.println("TWO");              //switch and asking input again if user enters wrong one//
+//                    break;
+//                case 3:
+//                    System.out.println("THREE");
+//                    break;
+//                case 4:
+//                    System.out.println("FOUR");
+//                    break;
+//                case 5:
+//                    System.out.println("FIVE");
+//                    break;
+//                case 6:
+//                    System.out.println("SIX");
+//                    break;
+//                case 7:
+//                    System.out.println("SEVEN");
+//                    break;
+//                default:
+//                    System.out.println("ENTER THE  NUMBER WHICH FOLLWS THE GIVEN CONDITION, TRY AGAIN");
+//                    continue;
+//
+//            }
+//            break; //we give break so that it won't go back to while loop again//
+//        }
+//        System.out.println("ENTER THE CHARACTER:");
+//        Scanner in = new Scanner(System.in);
+//        while (true){
+//        char n = in.next().charAt(0);
+//                    switch (n) {                                     //ENHANCED SWITCH WITH TERNARY OPERATOR//
+//            case 'A', 'E', 'I', 'O', 'U' -> System.out.println("VOWEL");
+//            case 'a', 'e', 'i', 'o', 'u' -> System.out.println("VOWEL");
+//            default -> System.out.println(Character.isLetter(n) ? "CONSONANT" : " INVALID");
+//        }
+//        break;
+//        }
+
+//        System.out.println("THE EVEN NUMBERS ARE:");
+//        for (int i = 0; i <=100; i++) {               //printing even numbers//
+//            if (i % 2 == 1){                      //method1//
+//                continue;
+//        }
+//            System.out.print(i + " ");
+//        }
+//        System.out.println();
+//        System.out.println("THE EVEN NUMBERS in decreasing orderr is:");
+//        for (int i = 100; i >=0; i--) {          //printing even numbers in drcreasing order//
+//            if (i % 2 == 0)                      //method2//
+//            System.out.print(i + " ");
+//
+//        }
+//        System.out.println();
+//        System.out.println("THE EVEN NUMBERS in decreasing orderr is:");
+//        for (int i = 100; i >=0; i-=2) {          //printing even numbers in drcreasing order//
+//          System.out.print(i + " ");                 //method3//
+//
+//        }
+
+//      int n = 0;
+//while (true) {
+//    System.out.println("ENTER THE NUMBER");
+//    Scanner input = new Scanner(System.in);
+//    n += input.nextInt();
+//    if (n>100){
+//        break;
+//    }
+//}
+//        System.out.println("done");
 
 
 
